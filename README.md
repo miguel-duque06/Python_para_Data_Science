@@ -77,17 +77,6 @@ Os notebooks seguem, de forma geral, o fluxo real de um projeto de dados:
 
 ---
 
-## 🚀 Como executar
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-pip install pandas numpy matplotlib seaborn jupyter
-jupyter notebook
-```
-
----
-
 ## 🎯 Objetivo
 
 Este repositório faz parte da minha jornada em Ciência de Dados, com foco em:
@@ -104,9 +93,3 @@ Este repositório faz parte da minha jornada em Ciência de Dados, com foco em:
 Mais do que exercícios, este repositório representa **consistência**.
 
 Cada notebook aqui é um passo na construção da minha capacidade de trabalhar com dados de forma estruturada e consciente.
-
----
-
-## 👨‍💻 Autor
-
-Desenvolvido como parte do meu aprendizado em **Data Science com Python**.
